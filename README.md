@@ -10,12 +10,10 @@ Este repositorio contiene:
   1. Regresión lineal.
 
 
-
 Durante el transcurso de las sesiones, el material que contiene el repositorio
 se irá completando y desarrollando.
 
 Contacto:
-    Gabriel Moyà Alcover
-    gabriel(arroba).uib.es
+    Gabriel Moyà Alcover : gabriel(arroba).uib.es
 
 
